@@ -56,7 +56,9 @@ sections:
             label: View product
             url: ''
       - type: Card
-        title: ''
+        title: >-
+          2019 Freightliner Cascadia T/A High Roof Sleeper Semi Truck A/T
+          Detroit bidadoo
         image:
           type: Image
           url: /images/s3.png
