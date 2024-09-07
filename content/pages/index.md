@@ -53,7 +53,7 @@ sections:
         text: "\_60” High Roof Sleeper Cab\_Aluminum Wheels\_Air Slide 5th Wheel\_Suspension Dump\_Power Windows and Mirrors\_Heated Mirrors\_AM/FM Radio w/ CD, USB, Aux, and Bluetooth\n"
         actions:
           - type: Button
-            label: Read the Docs
+            label: View product
             url: ''
       - type: Card
         title: Third Card Title
