@@ -50,11 +50,7 @@ sections:
           type: Image
           url: /images/s2.png
           altText: s2.png
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "\_60” High Roof Sleeper Cab\_Aluminum Wheels\_Air Slide 5th Wheel\_Suspension Dump\_Power Windows and Mirrors\_Heated Mirrors\_AM/FM Radio w/ CD, USB, Aux, and Bluetooth\n"
         actions:
           - type: Button
             label: Read the Docs
