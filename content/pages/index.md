@@ -41,7 +41,7 @@ sections:
         actions:
           - type: Button
             label: View product
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: ''
       - type: Card
         title: >-
           2020 Volvo VNL T/A 60" High Roof Sleeper Truck Tractor Auto Trans D13M
