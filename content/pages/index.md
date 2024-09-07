@@ -30,7 +30,7 @@ sections:
     subtitle: 25% Discount
     items:
       - type: Card
-        title: First Card Title
+        title: ''
         image:
           type: Image
           url: /images/s-l1600.png
