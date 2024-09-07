@@ -27,7 +27,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Trending
-    subtitle: Section subtitle here
+    subtitle: 25% Discount
     items:
       - type: Card
         title: First Card Title
