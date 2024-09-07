@@ -43,7 +43,9 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: >-
+          2020 Volvo VNL T/A 60" High Roof Sleeper Truck Tractor Auto Trans D13M
+          bidadoo
         image:
           type: Image
           url: /images/s2.png
