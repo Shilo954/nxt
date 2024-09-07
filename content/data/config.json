@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/g.png",
     "header": {
         "title": "Magic Miles Trucks",
         "navLinks": [
@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/).",
+        "copyrightText": "Powered by MMtrucks\n",
         "navLinks": [
             {
                 "type": "Link",
