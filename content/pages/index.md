@@ -7,8 +7,7 @@ sections:
     subtitle: >-
       Where Original Trucks&Vans That Endure All Humps Ahead And Deliver
       Suitable Results
-    text: |2
-       Learn more.
+    text: ''
     actions:
       - type: Button
         label: Start Building
