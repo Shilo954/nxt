@@ -16,7 +16,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: Inquiries or Need Help
         url: ''
         size: large
         variant: outlined
