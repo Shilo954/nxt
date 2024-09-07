@@ -67,5 +67,5 @@ sections:
         actions:
           - type: Button
             label: View Product
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: ''
 ---
