@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/g.png",
+    "favicon": "/images/nextjs.svg",
     "header": {
         "title": "Magic Miles Trucks",
         "navLinks": [
