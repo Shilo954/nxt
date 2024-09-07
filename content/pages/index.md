@@ -33,7 +33,7 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/t1.png
+          url: /images/s-l1600.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
