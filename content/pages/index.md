@@ -47,7 +47,7 @@ sections:
         image:
           type: Image
           url: /images/s2.png
-          altText: Second item image
+          altText: s2.png
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
