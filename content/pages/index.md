@@ -37,11 +37,7 @@ sections:
           type: Image
           url: /images/s-l1600.png
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "*   Unit is being sold in Parts / Repair Condition as shown\_\n\n*   Engine does not start with unknown issues\_\n\n*   Battery will not take charge - unable to verify current mileage or hours\_\n\n*   Tires are in average condition\_\n\n*   Tread depths-\_Fronts-12/32\_ L.Rears-15/32\_ R.Rears-13/32\n\n*   Unit is in average overall cosmetic condition with wear as shown\n\n*   See photos for more details\n\n"
         actions:
           - type: Button
             label: Read the Docs
