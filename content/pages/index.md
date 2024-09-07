@@ -40,7 +40,7 @@ sections:
         text: "*   Unit is being sold in Parts / Repair Condition as shown\_\n\n*   Engine does not start with unknown issues\_\n\n*   Battery will not take charge - unable to verify current mileage or hours\_\n\n*   Tires are in average condition\_\n\n*   Tread depths-\_Fronts-12/32\_ L.Rears-15/32\_ R.Rears-13/32\n\n*   Unit is in average overall cosmetic condition with wear as shown\n\n*   See photos for more details\n\n"
         actions:
           - type: Button
-            label: Read the Docs
+            label: View product
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: >-
