@@ -63,11 +63,7 @@ sections:
           type: Image
           url: /images/s3.png
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "Air Conditioning\_Driver and Passenger Air Bags\_Fifth Wheel Hitch w/ Slide\_Inter-Axle / Diff-Lock\_Air Suspension\_Cruise Control\_Power Windows/ Locks and Mirrors\_Air Conditioning\_AM/FM/XM/Bluetooth Radio\_Heated Power Mirrors\_Double Bunk High Roof Sleeper\n"
         actions:
           - type: Button
             label: Read the Docs
