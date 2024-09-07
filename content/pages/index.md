@@ -10,7 +10,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Start Building
+        label: Start Exploring
         url: ''
         size: large
         variant: contained
