@@ -56,7 +56,7 @@ sections:
             label: View product
             url: ''
       - type: Card
-        title: Third Card Title
+        title: ''
         image:
           type: Image
           url: /images/s3.png
