@@ -26,7 +26,7 @@ sections:
       url: /images/portfolio-1.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Trending
     subtitle: Section subtitle here
     items:
       - type: Card
