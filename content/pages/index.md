@@ -66,6 +66,6 @@ sections:
         text: "Air Conditioning\_Driver and Passenger Air Bags\_Fifth Wheel Hitch w/ Slide\_Inter-Axle / Diff-Lock\_Air Suspension\_Cruise Control\_Power Windows/ Locks and Mirrors\_Air Conditioning\_AM/FM/XM/Bluetooth Radio\_Heated Power Mirrors\_Double Bunk High Roof Sleeper\n"
         actions:
           - type: Button
-            label: Read the Docs
+            label: View Product
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
