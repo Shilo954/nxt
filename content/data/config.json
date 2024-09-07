@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Magic Miles Trucks",
         "navLinks": [
             {
                 "type": "Link",
@@ -13,13 +13,13 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/about",
+                "url": "",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "Sign up/Log in",
+                "url": "",
                 "underline": "hover"
             }
         ]
