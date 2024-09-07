@@ -7,10 +7,8 @@ sections:
     subtitle: >-
       Where Original Trucks&Vans That Endure All Humps Ahead And Deliver
       Suitable Results
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |2
+       Learn more.
     actions:
       - type: Button
         label: Start Building
