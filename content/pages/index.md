@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/portfolio-7.jpg
+      url: /images/portfolio-1.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
