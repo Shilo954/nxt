@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Welcome At Magic Miles
+    title: Welcome At Magic Milles
     subtitle: >-
       Where Original Trucks&Vans That Endure All Humps Ahead And Deliver
       Suitable Results
