@@ -30,7 +30,9 @@ sections:
     subtitle: 25% Discount
     items:
       - type: Card
-        title: ''
+        title: >-
+          2018 Freightliner M2 T/A 24' Dry Van Box Delivery Truck Cummins B6.7
+          A/T bidadoo
         image:
           type: Image
           url: /images/s-l1600.png
